@@ -1,9 +1,9 @@
 # 💫 About Me:
 Hi, I've researched self-custodial OTC derivatives for 3 years, and am now developing the first onchain stocks derivatives Kyc-less, and backing stablecoins, decentralized 401k, and flatcoins with them. <br><br>There is no economy without advanced derivatives, there is no DeFi without OTC market infrastructure, and currently, it's still near 0.
 
-### If we want crypto adoption, we need :
-- BRENT futures settled in Bitcoin. <br>It brings large cash movers to the ecosystem.<be>
-- Make CCP infrastructure that only G20 countries are allowed to do for DeFi. <br>There won't be any market stability and trust without that.<br><br>That's what we do at https://www.pioner.io<br><br>Whitepapers, testnet contract, MT5 hedger are deployed we're making the rest.<be>
+### What everyone forgot about crypto adoption, we need :
+- BRENT futures settled in Bitcoin. <br>No BTC without large mover.<be>
+- Make CCP infrastructure that only G20 countries are allowed to do for DeFi. <br>There won't be any market stability and counterparty trust without that.<br><br>That's what we do at https://www.pioner.io<br><br>Whitepapers, testnet contract, MT5 hedger are deployed we're making the rest.<be>
 
 ### Achievements :
 - $400k exploiting Binance Futures liquidations.
