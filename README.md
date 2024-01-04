@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I've researched self-custodial OTC derivatives for 3 years, and am now developing the first onchain stocks derivatives Kyc-less, and backing stablecoins, decentralized 401k, and flatcoins with them. <br><br>There is no economy without advanced derivatives.
+Hi, I've researched self-custodial OTC derivatives for 3 years, and am now developing the first onchain stocks derivatives Kyc-less, and backing stablecoins, decentralized 401k, and flatcoins with them. <br><br>There is no economy without advanced derivatives, there is no DeFi without OTC market infrastructure, and currently, it's still near 0.
 
 ### If we want crypto adoption, we need :
 - BRENT futures settled in Bitcoin. <br>It brings large cash movers to the ecosystem.<be>
@@ -11,8 +11,11 @@ Hi, I've researched self-custodial OTC derivatives for 3 years, and am now devel
 - Architect a Pioner competitor.
 
 
-### Free time :
-- Lived in 100+ Airbnbs ( if there is a good sofa on the photos 99% it's a good flat ).<br>- Nerding on QC, FHE, BCI, GPT agents,...<br>- After traveling a lot, found out that having a local community around is the most important.<br>- Arrived during DeFi summer and got addicted to working in crypto.
+### Nerding :
+- Lived in 100+ Airbnbs.
+- Nerding on QC, FHE, BCI, GPT agents,...
+- After traveling a lot, found out that having a local community around is the most important.
+- Arrived during DeFi summer and got addicted to working in crypto.
 
 
 ## 🌐 Socials:
