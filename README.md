@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Max. I've researched self-custodial OTC derivatives for 3 years, and am now developing the first onchain stocks derivatives Kyc-less, and backing stablecoins, decentralized 401k, and flatcoins with them. <br><br>There is no economy without advanced derivatives.
+Hi, I've researched self-custodial OTC derivatives for 3 years, and am now developing the first onchain stocks derivatives Kyc-less, and backing stablecoins, decentralized 401k, and flatcoins with them. <br><br>There is no economy without advanced derivatives.
 
 ### If we want crypto adoption, we need :
 - BRENT futures settled in Bitcoin. <br>It brings large cash movers to the ecosystem.<be>
