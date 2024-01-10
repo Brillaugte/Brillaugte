@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I've researched self-custodial OTC derivatives for 3 years, and am now developing the first onchain stocks derivatives Kyc-less, and backing stablecoins, decentralized 401k, and flatcoins with them. <br><br>There is no economy without advanced derivatives, there is no DeFi without OTC market infrastructure, and currently, it's still near 0.
+Started market manipulating and ended up doing my own derivative protocols. I've researched self-custodial OTC derivatives for 3 years, and we are now developing the first onchain stocks derivatives Kyc-less, and backing stablecoins, decentralized 401k, and flatcoins with them. <br><br>There is no economy without advanced derivatives, there is no DeFi without OTC market infrastructure, and currently, it's still near 0.
 
 ### What everyone forgot about crypto adoption, we need :
 - BRENT futures settled in Bitcoin. <br>No BTC without large mover.<be>
