@@ -1,5 +1,5 @@
 # 💫 About Me:
-Started market manipulating and ended up doing my own derivative protocols. I've researched self-custodial OTC derivatives for 3 years, and we are now developing the first onchain stocks derivatives Kyc-less, and backing stablecoins, decentralized 401k, and flatcoins with them. <br><br>There is no economy without advanced derivatives, there is no DeFi without OTC market infrastructure, and currently, it's still near 0.
+Started market manipulating and ended up doing my own derivative protocols. We are now developing the first onchain stocks derivatives Kyc-less, and backing stablecoins, decentralized 401k, and flatcoins with them. <br><br>There is no economy without advanced derivatives, there is no DeFi without OTC market infrastructure, and currently, it's still near 0.
 
 ### What everyone forgot about crypto adoption, we need :
 - BRENT futures settled in Bitcoin. <br>No BTC without large mover.<be>
@@ -8,14 +8,7 @@ Started market manipulating and ended up doing my own derivative protocols. I've
 ### Achievements :
 - $400k exploiting Binance Futures liquidations.
 - $1B Volume doing market manipulation on low caps.
-- Architect a Pioner competitor.
-
-
-### Nerding :
-- Lived in 100+ Airbnbs.
-- Nerding on QC, FHE, BCI, GPT agents,...
-- After traveling a lot, found out that having a local community around is the most important.
-- Arrived during DeFi summer and got addicted to working in crypto.
+- Architected a Pioner competitor.
 
 
 ## 🌐 Socials:
