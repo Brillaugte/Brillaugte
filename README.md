@@ -5,12 +5,6 @@ Started market manipulating and ended up doing my own derivative protocols. We a
 - BRENT futures settled in Bitcoin. <br>No BTC without large mover.<be>
 - Make CCP infrastructure that only G20 countries are allowed to do for DeFi. <br>There won't be any market stability and counterparty trust without that.<br><br>That's what we do at https://www.pioner.io<br><br>Whitepapers, testnet contract, MT5 hedger are deployed we're making the rest.<be>
 
-### Achievements :
-- $400k exploiting Binance Futures liquidations.
-- $1B Volume doing market manipulation on low caps.
-- Architected a Pioner competitor.
-
-
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Brillaugte_) 
 
