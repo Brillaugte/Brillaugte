@@ -1,10 +1,6 @@
 # 💫 About Me:
 Started market manipulating and ended up doing my own derivative protocols. We are now developing the first onchain stocks derivatives Kyc-less, and backing stablecoins and decentralized 401k with them. <br><br>There is no economy without advanced derivatives, there is no DeFi without OTC market infrastructure, and currently, it's still near 0.
 
-### What everyone forgot about crypto adoption, we need :
-- BRENT futures settled in Bitcoin. <br>No BTC without large mover.<be>
-- Make CCP infrastructure that only G20 countries are allowed to do for DeFi. <br>There won't be any market stability and counterparty trust without that.<br><br>That's what we do at https://www.pioner.io<br><br>Whitepapers, testnet contract, MT5 hedger are deployed we're making the rest.<be>
-
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Brillaugte_) 
 
@@ -14,4 +10,3 @@ Started market manipulating and ended up doing my own derivative protocols. We a
 ---
 [![](https://visitcount.itsvg.in/api?id=Brillaugte&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
